@@ -1,3 +1,4 @@
+// 'use strict';
 import Dashboard from 'client/pages/Dashboard';
 import Products from 'client/pages/Products.js';
 import Posts from 'client/pages/Posts.js';
