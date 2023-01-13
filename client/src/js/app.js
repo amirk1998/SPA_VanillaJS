@@ -1,6 +1,6 @@
-import { Dashboard } from 'client/pages/Dashboard';
-import { Products } from 'client/pages/Products.js';
-import { Posts } from 'client/pages/Posts.js';
+import Dashboard from 'client/pages/Dashboard';
+import Products from 'client/pages/Products.js';
+import Posts from 'client/pages/Posts.js';
 
 // 1. what to show user based on Route
 
