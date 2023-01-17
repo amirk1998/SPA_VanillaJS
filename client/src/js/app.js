@@ -1,5 +1,5 @@
 // 'use strict';
-import Dashboard from 'client/pages/Dashboard';
+import Dashboard from 'client/pages/Dashboard.js';
 import Products from 'client/pages/Products.js';
 import Posts from 'client/pages/Posts.js';
 
